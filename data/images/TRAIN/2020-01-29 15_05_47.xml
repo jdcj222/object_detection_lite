@@ -1,0 +1,50 @@
+<annotation>
+	<folder>TRAIN</folder>
+	<filename>2020-01-29 15_05_47.jpg</filename>
+	<path>C:\Users\rectworks\Desktop\20200129\TRAIN\2020-01-29 15_05_47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LEGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>400</ymin>
+			<xmax>593</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LEGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>707</ymin>
+			<xmax>287</xmax>
+			<ymax>856</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>LEGO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>750</xmin>
+			<ymin>808</ymin>
+			<xmax>883</xmax>
+			<ymax>942</ymax>
+		</bndbox>
+	</object>
+</annotation>
